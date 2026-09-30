@@ -2,11 +2,7 @@
 
 A modern, responsive online banking application built with **React, Vite, Spring Boot, and MongoDB**. Nissh Bank provides a user-friendly interface for managing accounts, viewing transactions, and accessing banking features securely.
 
-## 👨‍💻 About Me
 
-**Nitesh Kumar**  
-- 🎓 Undergraduate Student | Batch 2026
-- 💻 Aspiring Software Developer
 - 🌱 Interested in Full-Stack Development, Java, Spring Boot, and AI/ML
 - 🛠️ Skills: Java, Python, C, JavaScript, React.js, TypeScript, Spring Boot, Node.js, MongoDB, MySQL, Git, and Docker
 - 🔗 GitHub: [nitesh680](https://github.com/nitesh680)
